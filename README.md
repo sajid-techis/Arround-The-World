@@ -8,3 +8,10 @@ It has been built using html,tailwind css and React on frontend.And Sanity on ba
 # Please checkout 
 [live Demo](https://arroundtheworld.netlify.app/)
 
+# Technologies Used
+
+1. React
+2. Sanity
+3. Tailwind
+4. Google Cloud
+
