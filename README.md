@@ -5,5 +5,6 @@ the pins as well.You can autheticate yourself by logging in through your google 
 It has been built using html,tailwind css and React on frontend.And Sanity on backend.
 
 
-#Please checkout [live Demo] (https://arroundtheworld.netlify.app/)
+#Please checkout 
+[live Demo](https://arroundtheworld.netlify.app/)
 
